@@ -1,2 +1,1 @@
-# campla-lernstick-boot
-Known Issues Repository
+[To the Wiki](https://github.com/CAMPLA/campla-lernstick-boot/wiki/Overview)
